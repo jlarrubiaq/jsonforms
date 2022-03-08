@@ -2,8 +2,7 @@
   "extends": "../../../tsconfig.base.json",
   "compilerOptions": {
     "outDir": "../dist/test",
-    "target": "es6",
-    "inlineSourceMap": true
+    "target": "es6"
   },
   "include": [
     "**/*.ts",

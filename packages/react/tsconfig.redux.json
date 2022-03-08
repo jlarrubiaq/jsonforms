@@ -2,8 +2,7 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "outDir": "./lib/redux",
-    "declarationDir": "./lib",
-    "sourceMap": true,
+    "declarationDir": "./lib"
   },
   "files": [
     "./src/redux/index.ts"

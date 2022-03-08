@@ -15,7 +15,9 @@
     "allowSyntheticDefaultImports": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
-    "importHelpers": true
+    "importHelpers": true,
+    "sourceMap": true,
+    "inlineSources": true
   },
   "types": ["jest"]
 }
